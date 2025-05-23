@@ -3,9 +3,9 @@
 	"version": "0.0.1",
 	"private": true,
 	"description": "🤫 SecretSignup allows you to signup / show your love without revealing your personal information.",
-	"homepage": "HTTPS://GitHub.Com/SecretSignup/Website#readme",
+	"homepage": "https://GitHub.Com/SecretSignup/Website#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/SecretSignup/Website/issues"
+		"url": "https://GitHub.Com/SecretSignup/Website/issues"
 	},
 	"repository": {
 		"type": "git",
@@ -15,7 +15,7 @@
 	"author": {
 		"name": "Source ✍🏻 Open 👐🏻",
 		"email": "Source/Open@PlayForm.Cloud",
-		"url": "HTTPS://PlayForm.Cloud"
+		"url": "https://PlayForm.Cloud"
 	},
 	"scripts": {
 		"Run": "astro dev --host",

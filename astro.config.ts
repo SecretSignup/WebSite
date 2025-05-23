@@ -6,7 +6,7 @@ export default defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
-	site: "HTTPS://SecretSignup.PlayForm.Cloud",
+	site: "https://SecretSignup.PlayForm.Cloud",
 	compressHTML: true,
 	prefetch: {
 		defaultStrategy: "hover",
